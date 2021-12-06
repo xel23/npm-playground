@@ -1,0 +1,7 @@
+{
+  "name": "classic",
+  "version": "1.0.0",
+  "dependencies": {
+    "@npmplaygroun/common": "file:../common"
+  }
+}
